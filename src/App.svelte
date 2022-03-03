@@ -5,7 +5,7 @@
 <main>
 	<h1>{headerText}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps, if you're in to that sort of thing, that is.</p>
-	<input bind:value={headerText} placeholder="LUMOS!"/>
+	<input bind:value={headerText} placeholder="LUMOS?"/>
 </main>
 
 <style>
